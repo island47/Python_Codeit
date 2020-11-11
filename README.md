@@ -1,1 +1,1 @@
-# Python_Codeit
+# Codeit Study for Python
